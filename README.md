@@ -30,4 +30,5 @@ VideoMeet is a modern, full-stack video conferencing web application built with 
 <img width="1366" height="768" alt="Screenshot (673)" src="https://github.com/user-attachments/assets/b40262e3-65d3-410b-9a8b-762f2516f015" />
 <img width="1366" height="768" alt="Screenshot (671)" src="https://github.com/user-attachments/assets/16b99bed-0685-49f2-ada4-6be5027f37d5" />
 <img width="1366" height="768" alt="Screenshot (672)" src="https://github.com/user-attachments/assets/7444ef65-3fe6-4610-96b5-cf4c7efaf6ef" />
+<img width="1366" height="768" alt="Screenshot (675)" src="https://github.com/user-attachments/assets/abbdccca-145d-4e96-9f3e-ada9b46c2000" />
 
